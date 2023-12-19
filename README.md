@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript - Unblur Effect Loading - in my opinion one of the prettiest ways to load some elements on a website.
 
-What it looks like (please keep in mind GIF framerate is very limited, the animation is buttery smooth):
+What it looks like (please keep in mind GIF color reproduction and framerate are very limited, I highly recommend downloading and running it for yourself, as the GIF conversion really doesn't do this mini project justice):
 ![chrome-capture-2023-12-19 (3)](https://github.com/nikczemnydev/UnblurEffectLoading/assets/136376818/57119a40-d6d5-469d-9b2a-d2df24de0ea1)
 
 # INSTRUCTIONS #
