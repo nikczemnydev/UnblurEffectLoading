@@ -2,7 +2,7 @@ const loadText = document.querySelector('.loading-text')
 const bg = document.querySelector('.bg')
 
 let load = 0
-let int = setInterval(unblur, 25)
+let int = setInterval(unblur, 50)
 
 function unblur() {
     load++
