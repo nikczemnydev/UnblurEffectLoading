@@ -1,11 +1,9 @@
 HTML, CSS, JavaScript - Unblur Effect Loading - unblurring animation demo web application that gradually unblurs images as they load. Here’s how it works:
 
 Initial Blur:
-
 When an image is loaded, it starts off heavily blurred, obscuring the details. Users experience a sense of anticipation as they wait for the image to reveal itself.
 
 Progressive Unblurring:
-
 As the image loads, the blur effect gradually diminishes.
 The transition from blurry to clear creates an engaging visual experience.
 
