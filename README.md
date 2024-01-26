@@ -1,6 +1,6 @@
-# You can now view it online at https://codepen.io/nikczemnydev/details/VwRrpyw #
+# Latest Addition: You can now view it online at https://codepen.io/nikczemnydev/details/VwRrpyw #
 
-HTML, CSS, JavaScript - Unblur Effect Loading - unblurring animation demo web application that gradually unblurs images as they load. Here’s how it works:
+HTML, CSS, JavaScript - Unblur Effect Loading - unblurring animation demo product - web application that gradually unblurs images as they load. Here’s how it works:
 
 Initial Blur:
 When an image is loaded, it starts off heavily blurred, obscuring the details. Users experience a sense of anticipation as they wait for the image to reveal itself.
